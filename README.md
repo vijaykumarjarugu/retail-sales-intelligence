@@ -18,7 +18,7 @@
 ## 🎬 Live Dashboard Walkthrough
 
 Check out the interactive Streamlit analytics dashboard in action:  
-👉 **[Watch the Full Demo Video on Google Drive]((https://drive.google.com/file/d/1T9W8ebnQ4WHph-znoj3o06Mbx-hpbDjs/view?usp=drivesdk))**
+👉 [Watch the Full Demo Video on Google Drive](https://drive.google.com/file/d/1T9W8ebnQ4WHph-znoj3o06Mbx-hpbDjs/view?usp=drivesdk)
 
 ---
 
